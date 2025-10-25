@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hola, soy Jhoiner Jesús Hernandez Quintero
 
-<!--
-**jhoinerjesus/jhoinerjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software.  
+🚀 Aprendiendo **Java**, **bases de datos MongoDB**,**SQL Server**, **desarrollo web**.  
+📚 Actualmente trabajando en proyectos personales para fortalecer mi lógica y habilidades en programación.  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías que manejo
+- ☕ Java  
+- 🐍 Python  
+- 🗄️ MongoDB  
+- 💾 SQL Server  
+- 🧰 Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Actualmente aprendiendo
+- Spring Boot  
+- Fundamentos de ciberseguridad
+- Redes y telecumunicaciones
+
+## 📫 Cómo contactarme
+- 📍 Cartagena, Colombia  
+- [💼 LinkedIn](https://www.linkedin.com/in/jhoiner-hernandez-1a341a331)
+- 📧 jhoinerhernandezq@gmail.com
+
