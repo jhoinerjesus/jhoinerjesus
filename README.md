@@ -12,6 +12,13 @@
 - 🗄️ **MongoDB**  
 - 💾 **SQL Server**  
 - 🧰 **Git y GitHub**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -29,5 +36,10 @@
 - 📧 **jhoinerhernandezq@gmail.com**
 
 ---
+
+## 📊 Mis estadísticas en GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jhoinerjesus&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoinerjesus&layout=compact&theme=tokyonight)
 
 ✨ _“El aprendizaje constante es el camino para alcanzar grandes cosas.”_
