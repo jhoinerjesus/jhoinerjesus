@@ -37,9 +37,5 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jhoinerjesus&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoinerjesus&layout=compact&theme=tokyonight)
 
 ✨ _“El aprendizaje constante es el camino para alcanzar grandes cosas.”_
